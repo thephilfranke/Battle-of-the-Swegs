@@ -1,0 +1,12 @@
+name: BOTS
+main: me.philitup321.minigame.Main
+version: 1.0 
+description: >
+             Battle of the Sweg’s main plugin!
+commands:
+  tornado:
+    description: Test for a tornado
+  startgame:
+    description: Test for a tornado
+  spectate:
+    description: Test for a tornado
